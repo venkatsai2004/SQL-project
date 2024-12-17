@@ -46,7 +46,7 @@ The analysis provides insights into IPL trends, such as player performance, team
 **Author**: Anjali Singh  
 - 📧 Email: [venkatsai1072@gmail.com](venkatsai1072@gmail.com)  
 - 🌐 GitHub: [venkatsai2004](https://github.com/venkatsai2004)  
-- 🔗 LinkedIn: [Venkat Sai]((https://www.linkedin.com/in/venkat-sai-51b0a825a/))  
+- 🔗 LinkedIn: [Venkat Sai](https://www.linkedin.com/in/venkat-sai-51b0a825a/)
 
 ---
 
